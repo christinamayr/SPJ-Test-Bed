@@ -36,14 +36,19 @@ _[POPL 2022](https://popl22.sigplan.org)_ | August 2021 </h2>
      alt="Download BibTex file"/>
     [Download BibTex](/assets/bibtex/provably-correct.bib){: .btn .btn--info ..btn--large}
 </center>
-
+<br>
+<br>
 <body>
   In this paper, we give a simple and efficient implementation of reverse-mode automatic differentiation, which both extends easily to higher-order functions, and has run time and memory consumption linear in the run time of the original program. In addition to a formal description of the translation, we also describe an implementation of this algorithm, and prove its correctness by means of a logical relations argument.
 </body>
-
+<br>
+<br>
 <img src="/assets/images/thumb-video-provably-correct.jpg"
      alt="Watch the video about this paper"
      style="float: left; margin-right: 10px;" />
 In this paper, we give a simple and efficient implementation of reverse-mode automatic differentiation, which both extends easily to higher-order functions, and has run time and memory consumption linear in the run time of the original program. In addition to a formal description of the translation, we also describe an implementation of this algorithm, and prove its correctness by means of a logical relations argument.
 [Watch](https://www.youtube.com/watch?v=EPGqzkEZWyw){: .btn .btn--info ..btn--large}
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPGqzkEZWyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
