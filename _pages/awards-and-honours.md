@@ -1,10 +1,11 @@
 ---
+# layout:  
 title: Awards and Honours
 permalink: /awards/
 header:
   overlay_image: /assets/images/spj-stock-header.jpg
+  overlay_filter: 0.5
 ---
-
 ## Fellowships
 
 * [Fellow of the Royal Society](https://royalsociety.org/people/simon-peyton-jones-12889/) - 2016
